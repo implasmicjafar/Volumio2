@@ -33,3 +33,8 @@ spotify-login.txt
 .idea
 *.iml
 .DS_Store
+
+# Files changed commonly
+app/plugins/system_controller/network/wireless.js
+http/www/
+http/www3/
